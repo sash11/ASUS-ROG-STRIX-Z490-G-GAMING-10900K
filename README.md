@@ -11,6 +11,7 @@
 | WiFi & Bluetooth | Fenvi T-919 Works OOB |
 | Lan |  Intel® 2.5GbE LAN I225-V. Works OOB on Big Sur 11.3 and above with boot argument dk.e1000=0 |
 | OS Disk | 128GB Samsung 850 Pro SATA |
+| macOS | Big Sur 11.6/OpenCore 0.7.4 |
 
 ## USB issue
 I have made a custom USB-Z490G.kext that should be used together with XhciPortLimit kernel quirk.
