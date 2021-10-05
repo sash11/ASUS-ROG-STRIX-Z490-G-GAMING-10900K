@@ -14,13 +14,12 @@
 
 ## USB issue
 I have made a custom USB-Z490G.kext that should be used together with XhciPortLimit kernel quirk.
-
  <p align="center">
   <img src="Images/BackIO.png" align=center">
  </p>
   <p align="center">
   <img src="Images/MB.png" align=center">
  </p>
-
+ 
 ## Opencore
 - Fill in your own PlatformInfo. For Big Sur use iMac20,2 SMBIOS.
