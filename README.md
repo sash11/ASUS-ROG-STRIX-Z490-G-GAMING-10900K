@@ -1,5 +1,11 @@
 # ASUS-ROG-STRIX-Z490-G-GAMING-10900K
- 
+ <p align="center">
+  <img src="Images/AboutThisMac.png" align=center">
+ </p>
+ <p align="center">
+  <img src="Images/PCI.png" align=center">
+ </p>
+
  ## Specs
  | **Component** | **Model** |
 | ------------- | --------- |
