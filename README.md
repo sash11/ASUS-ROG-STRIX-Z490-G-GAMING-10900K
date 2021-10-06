@@ -20,7 +20,7 @@
 | macOS | Big Sur 11.6/OpenCore 0.7.4 |
 
 ## USB issue
-I have made a custom USB-Z490G.kext that should be used together with XhciPortLimit kernel quirk.
+I have made a custom USB-Z490G.kext that should be used together with XhciPortLimit kernel quirk. Some ports only work as USB3.0 ports. I could not get the following 5 ports to work with USB 2.0 devices: HS01, HS02, HS03, HS04 and HS05.
  <p align="center">
   <img src="Images/BackIO.png" align=center">
  </p>
