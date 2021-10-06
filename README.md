@@ -2,6 +2,9 @@
  <p align="center">
   <img src="Images/AboutThisMac.png" align=center">
  </p>
+  <p align="center">
+  <img src="Images/Geekbench5.png" align=center">
+ </p>
  <p align="center">
   <img src="Images/PCI.png" align=center">
  </p>
@@ -21,6 +24,9 @@
 
 ## USB issue
 I have made a custom USB-Z490G.kext that should be used together with XhciPortLimit kernel quirk. Some ports only work as USB3.0 ports. I could not get the following 5 ports to work with USB 2.0 devices: HS01, HS02, HS03, HS04 and HS05.
+ <p align="center">
+  <img src="Images/USB.png" align=center">
+ </p>
  <p align="center">
   <img src="Images/BackIO.png" align=center">
  </p>
