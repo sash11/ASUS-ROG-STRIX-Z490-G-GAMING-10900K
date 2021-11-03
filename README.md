@@ -19,6 +19,7 @@
 | iGPU | Intel UHD Graphics 630 |
 | WiFi & Bluetooth | Fenvi T-919 Works OOB |
 | Lan |  Intel® 2.5GbE LAN I225-V. Works OOB on Big Sur 11.3 and above with boot argument dk.e1000=0 |
+| Lan |  ASUS XG-C100C 10GB PCIe card. Works with a kernel patch |
 | OS Disk | 128GB Samsung 850 Pro SATA |
 | macOS | Monterey 12.0.1/OpenCore 0.7.4 |
 
