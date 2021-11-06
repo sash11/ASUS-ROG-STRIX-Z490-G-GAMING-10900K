@@ -36,4 +36,4 @@ I have made a custom USB-Z490G.kext that should be used together with XhciPortLi
  </p>
  
 ## Opencore
-- Fill in your own PlatformInfo. For Big Sur use iMac20,2 SMBIOS.
+- Fill in your own PlatformInfo. For Monterey use iMac20,2 SMBIOS.
