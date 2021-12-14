@@ -1,6 +1,6 @@
 # ASUS-ROG-STRIX-Z490-G-GAMING-10900K
  <p align="center">
-  <img src="Images/AboutThisMac2.png" align=center">
+  <img src="Images/AboutThisMac.png" align=center">
  </p>
   <p align="center">
   <img src="Images/Geekbench5.png" align=center">
@@ -21,7 +21,7 @@
 | Lan |  Intel® 2.5GbE LAN I225-V. Works OOB on Big Sur 11.3 and above with boot argument dk.e1000=0 |
 | Lan |  ASUS XG-C100C 10GB PCIe card. Works with a kernel patch |
 | OS Disk | 128GB Samsung 850 Pro SATA |
-| macOS | Monterey 12.0.1/OpenCore 0.7.5 |
+| macOS | Monterey 12.1/OpenCore 0.7.6 |
 
 ## USB issue
 I have made a custom USB-Z490G.kext that should be used together with XhciPortLimit kernel quirk. Some ports only work as USB3.0 ports. I could not get the following 5 ports to work with USB 2.0 devices: HS01, HS02, HS03, HS04 and HS05.
